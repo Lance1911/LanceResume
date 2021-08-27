@@ -1,2 +1,0 @@
-# LanceResume
-Basic HTML Resume
