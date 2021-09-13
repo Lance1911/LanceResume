@@ -13,6 +13,10 @@
     color:#fff9f9;
 }
 
+#LinkedIn, #GitHub {
+    color:rgb(255, 255, 255);
+}
+
 /*Controls the activity of the page body*/
 body {
     padding-top: 12%;
