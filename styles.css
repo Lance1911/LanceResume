@@ -19,6 +19,10 @@ body {
     background-color:rgb(3, 0, 0);
 }
 
+#LinkedIn, #GitHub {
+    color: rgb(0,0,0);
+}
+
 /*Controls the font size and style of the text content (non headings)*/
 .contentSection {
     font-style:normal;
