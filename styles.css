@@ -13,6 +13,7 @@
     color:#fff9f9;
 }
 
+/* Changes the color of the Linkedin and GitHub links to white */
 #LinkedIn, #GitHub {
     color:rgb(255, 255, 255);
 }
@@ -21,6 +22,18 @@
 body {
     padding-top: 12%;
     background-color:rgb(3, 0, 0);
+}
+
+/* tag selector managing image size */
+img {
+    width: 10%;
+    height: 10%;
+}
+
+/* Tag selector controls the italic and color of the h2 headings */
+h2 {
+    font-style:italic;
+    color:rgb(1, 1, 22);
 }
 
 /*Controls the font size and style of the text content (non headings)*/
