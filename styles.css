@@ -25,9 +25,19 @@ body {
 }
 
 /* tag selector managing image size */
-img {
+#vtEmblem {
     width: 10%;
     height: 10%;
+}
+
+#git {
+    width: 1.7%;
+    height: 1.7;
+}
+
+#linkedIn {
+    width: 1.7%;
+    height: 1.7%;
 }
 
 /* Tag selector controls the italic and color of the h2 headings */
