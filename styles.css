@@ -55,3 +55,81 @@ h2 {
     width: 100%;
     padding-left:5%;
 }
+
+@media only screen and (max-width: 500px) {
+    .contact-info {
+        top:0;
+        left:0;
+        width:100%;
+        height:15%;
+        text-align:center;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        border: 3px solid rgb(0, 0, 0);
+        background-color:rgb(23, 41, 78);
+        color:#fff9f9;
+    }
+
+    #edu {
+        font-style:normal;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border: 3px solid rgb(0, 0, 0);
+        background-color:rgb(161, 207, 207);
+        width: 100%;
+        padding-left:5%;
+        padding-top:30%
+    }
+
+    #vtEmblem {
+        width: 20%;
+        height: 20%;
+    }
+    
+    #git {
+        width: 5%;
+        height: 5%
+    }
+    
+    #linkedIn {
+        width: 5%;
+        height: 5%;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .contact-info {
+        top:0;
+        left:0;
+        width:100%;
+        height:20%;
+        text-align:center;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        border: 3px solid rgb(0, 0, 0);
+        background-color:rgb(23, 41, 78);
+        color:#fff9f9;
+    }
+
+    #edu {
+        font-style:normal;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border: 3px solid rgb(0, 0, 0);
+        background-color:rgb(161, 207, 207);
+        width: 100%;
+        padding-left:5%;
+        padding-top:30%
+    }
+
+    #vtEmblem {
+        width: 20%;
+        height: 20%;
+    }
+    
+    #git {
+        width: 5%;
+        height: 5%
+    }
+    
+    #linkedIn {
+        width: 5%;
+        height: 5%;
+    }
+}
